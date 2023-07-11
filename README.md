@@ -5,16 +5,19 @@ This guide will walk you through the process of updating Cisco Access Points (AP
 
 ## Prerequisites
 Before you begin, make sure you have the following prerequisites in place:
+1. Console Cable:
 
-1. TFTP server: 
+    If you do not have one I would recommend getting [this one](https://www.amazon.co.uk/dp/B08BCQ8LLR)
+     
+2. TFTP server: 
     
     Install and configure a TFTP server on your local machine or network. You can use popular TFTP server software such as Tftpd32 (for Windows) or tftpd-hpa (for Linux).
 
-2. Cisco AP firmware: 
+3. Cisco AP firmware: 
     
     Obtain the latest firmware file for your Cisco AP model from the Cisco website or your network equipment vendor. Ensure that you have the correct firmware file for your AP model and that it is compatible with your network infrastructure.
 
-3. Network connectivity: 
+4. Network connectivity: 
 
     Ensure that the APs you want to update and the machine running the TFTP server are connected to the same network.
 
